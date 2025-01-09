@@ -1,0 +1,8 @@
+streamlit
+qdrant-client
+langchain
+langchain-huggingface
+langchain-groq
+langchain-core
+psycopg2
+langchain-community
